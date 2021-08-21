@@ -1,0 +1,2 @@
+Flask~=2.0.1
+pywhatkit~=5.1
